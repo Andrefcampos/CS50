@@ -1,4 +1,4 @@
-<iframe src="https://scratch.mit.edu/projects/997982314/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+# Scratch
 
 This project aims to implement any project of the student's choice in Scratch, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
 
